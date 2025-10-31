@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently a MCA student at PRESIDENCY COLLEGE BENGLORE.<br>👯 I’m looking to collaborate on innovative web applications that utilize React, Node.js, and database integrations.<br>🤝 I’m looking for help with advancing my skills in cloud technologies and scalable web architectures.<br>🌱 I’m currently learning advanced React, Node.js, and optimizing SQL databases for dynamic applications.<br>💬 Ask me about full-stack development, user-friendly interface design, and database management.<br>⚡ Fun fact: I’m fluent in four languages and enjoy discovering ways to make tech solutions more accessible across different user bases!
+🔭 💻 I’m currently pursuing my **MCA at Presidency College, Bangalore.** <br>
+👯 I’m looking to collaborate on **innovative web development projects** using **Core Java, HTML, CSS, and SQL.** <br>
+🤝 I’m seeking guidance to **enhance my backend programming and database optimization skills.** <br>
+🌱 I’m currently learning **advanced Java concepts**, **database management**, and building **responsive web interfaces.** <br>
+💬 Ask me about **Java programming, web design, database handling, and logic building in C.** <br>
+⚡ Fun fact: I enjoy turning creative ideas into functional web pages and exploring efficient coding techniques!
 
 
 ## 🌐 Socials:
