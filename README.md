@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
- [![LinkedIn](https://www.linkedin.com/feed/) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+
 
 # 💻 Tech Stack:
 ![Core Java](https://img.shields.io/badge/Core%20Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
